@@ -3,7 +3,7 @@
 --maincolor: red;
 --bordercl:#232333;;
 --callouctcolor:dodgerblue;
---hovercolor:navy;
+--hovercolor:red;
 --darkMaincolor: #50fa7b;
 }
 
@@ -27,7 +27,6 @@ body{
 }
 
 p {
-  font-family: 'Fira Sans', sans-serif;
   line-height: 1.5;
 }
 
